@@ -9,6 +9,6 @@
 	Hello world!  
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
+<P>  The time on the server is ${serverTime}. 이거 왜 오류가 뜰까요?</P>
 </body>
 </html>
